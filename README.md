@@ -1,13 +1,12 @@
-# 21-Day Agent Series: Day 7
-## **AGENT: Company Website Analyzer**
+# 21-Day Agent Series: Day 6
+## **AGENT: Company Website Analyzer Agent**
 
 ### **Overview**
-The **Company Website Analyzer Agent** is part of the 21-day AI agent series. This agent utilizes the **Upsonic AI Framework** and the **Upsonic Search Tool** to analyze a given company's website. It extracts valuable insights, including customer presence, industry relevance, and potential competitors. 🚀📊
+The **Company Website Analyzer Agent** is part of the 21-day AI agent series. This agent leverages the **Upsonic AI framework** to analyze a given company's website and determine whether the company has customers. It does not gather insights beyond this specific information. 🚀
 
 ### **Features**
 - Accepts a company website URL as input 🌐
-- Uses **Upsonic Search Tool** for analysis 🔍
-- Extracts structured insights, such as customer presence and industry relevance 🏢
+- Analyzes the website to check if the company has customers 🔍
 - Displays results in a structured UI format 📊
 - Powered by **Upsonic AI** 🧠⚡
 
@@ -59,7 +58,7 @@ http://127.0.0.1:8000/
 ```
 - Enter a **company website URL** 📎
 - Click **Analyze** 🔍
-- View and analyze extracted insights 📄
+- View whether the company has customers ✅
 
 ### **API Documentation**
 Interactive API documentation is available at:
@@ -70,8 +69,7 @@ This project is open-source and follows the MIT License. 📝
 
 ### **Credits**
 - Developed using **Upsonic AI**
-- Powered by **Upsonic Search Tool** for real-time website analysis
+- Powered by **Upsonic AI Search Tool** for website analysis
 
 ---
 **Powered by [Upsonic AI](https://upsonic.ai)** 🚀
-
